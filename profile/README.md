@@ -1,4 +1,8 @@
-## Hi there 👋
+## Esis L2 2022
+
+Compte GitHub contenant les projets réalisés comme travaux pratiques par les étudiants de L2 lors de l'année académique 2021-2022.
+
+L'objectif est de centraliser le partage des ressources entre les étudiants, chacun des membres a le droit de soumettre son projet afin de le partager avec les autres étudiants.
 
 <!--
 
